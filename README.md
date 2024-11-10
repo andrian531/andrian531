@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Andrian531's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrian531&show_icons=true&theme=dark)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrian531)]
 <!--
 **andrian531/andrian531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
