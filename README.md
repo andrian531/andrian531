@@ -1,18 +1,13 @@
 ## Hi there 👋
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrian531&layout=compact&theme=dark)
+<div align="center">
 
-![Andrian531's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrian531&show_icons=true&theme=dark)
-**andrian531/andrian531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 GitHub Streak
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrian531&theme=transparent&hide_border=true&background=0C1014&ring=599CAB&fire=2AA889&currStreakNum=99D1CE&sideNums=99D1CE&currStreakLabel=2AA889&sideLabels=2AA889&dates=599CAB)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Contribution Activity
+
+[![Andrian's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrian531&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
